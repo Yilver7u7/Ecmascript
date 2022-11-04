@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Estaremos viendo las novedades que nos han traido a lo largo de los años con las versiones de Ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yilver7u7/Ecmascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "OTLUS yilversgg@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yilver7u7/Ecmascript/issues"
+  },
+  "homepage": "https://github.com/Yilver7u7/Ecmascript#readme"
+}
