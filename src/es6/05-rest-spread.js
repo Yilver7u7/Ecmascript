@@ -40,9 +40,30 @@ let contry = "Colombia";
 
 let data = {...y, contry: contry}
 console.log(data)
+console.log(y)
 
 
 //Rest 
+/*
+function suma(num,...values) {
+    console.log(values)
+    console.log(num+values[2])
+    return num+values[2]
+}
 
+suma(2,2,5,6,3,4)*/
+
+function solucion(json1,json2) {
+    json1 = json1 || {
+        name: "Mr. Michi",
+        food: "Pescado"
+      }
+      json2 = json2 ||{
+        age: 12,
+        color: "Blanco"
+      } 
+    return {...json1, ...json2} 
+}
+solucion()
 
 
