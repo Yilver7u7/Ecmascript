@@ -53,7 +53,7 @@ function suma(num,...values) {
 
 suma(2,2,5,6,3,4)*/
 
-function solucion(json1,json2) {
+/*function solucion(json1,json2) {
     json1 = json1 || {
         name: "Mr. Michi",
         food: "Pescado"
@@ -64,6 +64,6 @@ function solucion(json1,json2) {
       } 
     return {...json1, ...json2} 
 }
-solucion()
+solucion()*/
 
 
